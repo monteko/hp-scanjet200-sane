@@ -1,0 +1,4 @@
+https://github.com/kropochev/scanjet200
+Commit: deaa4bd3dc27e9d10f4868efc0b895ecf642c9bc
+
+Port of HPProgram, GenesysDevice, coldBoot, capture and RGB decoder. MIT license.
